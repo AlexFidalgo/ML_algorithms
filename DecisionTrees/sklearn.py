@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
 
-data = pd.read
+data = pd.read_csv('housing.csv')
 
 
