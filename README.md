@@ -1,2 +1,2 @@
 # ML_algorithms
-Implementing different Machine Learning algorithms
+Solving prediction problems via different Machine Learning algorithms
