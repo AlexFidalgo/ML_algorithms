@@ -27,3 +27,5 @@ TARGET
 
 fare_amount - float dollar amount of the cost of the taxi ride. This value is only in the training set; this is what you are predicting in the test set and it is 
 required in your submission CSV.
+
+Files are available on https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data
